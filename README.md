@@ -91,13 +91,29 @@ else:
 
 s.close()
 ```
+
+## index.html
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p>hello world</p>
+</body>
+</html>
+```
 ## OUTPUT
 
 ## SERVER
-<img width="694" height="86" alt="image" src="https://github.com/user-attachments/assets/dc6184bb-bfae-44c6-9eb1-c03421aedc62" />
+<img width="503" height="64" alt="image" src="https://github.com/user-attachments/assets/8f37afcb-bea0-4d5b-85be-f2245500e0a9" />
+
 
 ## CLIENT
-<img width="465" height="382" alt="image" src="https://github.com/user-attachments/assets/775abfb7-2c51-4d8a-a9e8-d1266767866a" />
+<img width="438" height="330" alt="image" src="https://github.com/user-attachments/assets/1d30b9b5-23e8-41d4-aed6-06e0e70338b6" />
+
 
 
 ## Result
