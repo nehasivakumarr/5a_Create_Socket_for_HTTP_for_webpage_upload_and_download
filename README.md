@@ -95,6 +95,7 @@ s.close()
 
 ## SERVER
 <img width="694" height="86" alt="image" src="https://github.com/user-attachments/assets/dc6184bb-bfae-44c6-9eb1-c03421aedc62" />
+
 ## CLIENT
 <img width="465" height="382" alt="image" src="https://github.com/user-attachments/assets/775abfb7-2c51-4d8a-a9e8-d1266767866a" />
 
